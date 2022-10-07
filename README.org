@@ -6,7 +6,7 @@
 
 * GitHub username: fmesa1213
 
-* Notes:
+* Notes: I have trouble understanding how to do the tests and how to attach one file to another. I'm sorry, but I struggled with this lab.
 
 
 
