@@ -156,7 +156,8 @@ cout<<"The twin primes are: "<<tPrime<<" and "<<tPrime+2;
 
 return 0;
 }
-int main() {
+
+{
 
    cout << largestTwinPrime(5, 18) << endl;
    cout << largestTwinPrime(1, 31) << endl;
